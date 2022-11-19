@@ -42,7 +42,7 @@ class _ErrorState extends State<Error> {
                   },
 
                   child: Text("Обновить",style: TextStyle(
-                    fontSize: 16,
+                    fontSize: 17,
                   ),),
 
                   style: TextButton.styleFrom(
